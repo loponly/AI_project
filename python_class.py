@@ -1,3 +1,12 @@
+#Variable
+
+var_string = 'Enkhbat'
+var_int = 5 
+var_float = 0.57
+
+# variable convert 
+print(float(var_int))
+
 
 
 # List bols array yum a
