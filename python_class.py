@@ -45,3 +45,6 @@ class className:
         pass
 
 # Manisaa bolhgui bol asugaraa 
+
+# Endees hicheel uzerei Pythonii tuhai 
+# https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
